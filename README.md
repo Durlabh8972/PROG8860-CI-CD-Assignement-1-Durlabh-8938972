@@ -26,7 +26,7 @@ pip install flask
 
 python run.py
 
-## ✅ STEP 1: Open browser and run the below application links.
+## ✅ STEP 2: Open browser and run the below application links.
 
 http://localhost:5000
 
@@ -38,6 +38,24 @@ http://localhost:5000/health
 
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/5608f380-bca8-4c40-8619-5a3cb15c4c77" />
+
+## ✅ STEP 3: RUN UNIT TESTS LOCALLY
+Run this command: python -m unittest discover test
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/cd79ecde-7d2f-4c1d-92b3-a89575ce7ffb" />
+
+## ✅ STEP 4: BUILD DOCKER IMAGE
+Run this command: docker build -t durlabh-flask-app .
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/70e2a8ce-315a-4d94-bd69-4a3d626a3508" />
+
+## ✅ STEP 5: RUN DOCKER CONTAINER
+Run this command: docker run -d -p 5000:5000 --name flask_container durlabh-flask-app
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/4307c51f-7e34-4e5e-855c-24eadca4dd54" />
+
+
+
 
 
 
