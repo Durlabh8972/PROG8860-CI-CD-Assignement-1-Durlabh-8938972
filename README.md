@@ -56,6 +56,11 @@ Run this command: docker run -d -p 5000:5000 --name flask_container durlabh-flas
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/abd99c2f-4ffb-4434-a1cb-19114a69bed8" />
 
+## ✅ STEP 6: GitHub Actions Workflow Successful
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b49fc1f5-de50-494a-a10c-f4e19f1a4e50" />
+
+
 
 
 
