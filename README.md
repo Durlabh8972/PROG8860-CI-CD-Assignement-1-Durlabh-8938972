@@ -23,6 +23,7 @@
 Open terminal in the project root folder.
 
 pip install flask
+
 python run.py
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/d0434b39-1f58-4e79-94cc-14e1d6a7d7c5" />
