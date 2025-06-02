@@ -56,12 +56,17 @@ Run this command: docker run -d -p 5000:5000 --name flask_container durlabh-flas
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/abd99c2f-4ffb-4434-a1cb-19114a69bed8" />
 
-## ✅ STEP 6: CI/CD Pipeline
+## ✅ STEP 6: Pull Request Merged to Branch
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/bcf989c4-f365-4cf7-aa73-40d8cad45660" />
+
+
+## ✅ STEP 7: CI/CD Pipeline
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a2a0b7d4-b39b-49e4-a5d9-a562bf856f9d" />
 
 
-## ✅ STEP 7: GitHub Actions Workflow Successful
+## ✅ STEP 8: GitHub Actions Workflow Successful
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b49fc1f5-de50-494a-a10c-f4e19f1a4e50" />
 
