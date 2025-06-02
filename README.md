@@ -54,6 +54,9 @@ Run this command: docker run -d -p 5000:5000 --name flask_container durlabh-flas
 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/4307c51f-7e34-4e5e-855c-24eadca4dd54" />
 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/abd99c2f-4ffb-4434-a1cb-19114a69bed8" />
+
+
 
 
 
