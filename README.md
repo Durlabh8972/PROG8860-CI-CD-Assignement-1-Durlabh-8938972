@@ -19,4 +19,16 @@
 - **Run**: Start container and show it.
 - **Stop**: Stop the container.
 
-## Application Screenshots
+## ✅ STEP 1: RUN THE FLASK APP LOCALLY
+Open terminal in the project root folder.
+
+pip install flask
+python run.py
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/d0434b39-1f58-4e79-94cc-14e1d6a7d7c5" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5608f380-bca8-4c40-8619-5a3cb15c4c77" />
+
+
+
+
